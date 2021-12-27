@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>"For those about to shop, I salute you! ~Luna Loud"</Text>
+      <Text>“Well done, Frank Zhang,” Leo said dryly, doing his impression of Chiron the centaur. “That is exactly how people beat Chinese handcuffs. They turn into iguanas.”</Text>
       <StatusBar style="auto" />
     </View>
   );
